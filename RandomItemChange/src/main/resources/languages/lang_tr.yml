@@ -1,0 +1,21 @@
+#Eklentiyi indirip desteklediğiniz için teşekkürler. Herhangi bir hatada veya bugda aşağıdaki bağlantılardan bize ulaşabilirsiniz.
+#Discord: discord.gg/D5D2qezm3Q
+#Website: www.voseraproject.tr
+
+prefix: "&8[&bRandomItem&8] &r"
+no-permission: "&cʜᴀᴛᴀ!|&cBu komutu kullanmak için izniniz bulunmuyor."
+only-players: "&cʜᴀᴛᴀ!|&cBu komut sadece oyuncular içindir."
+invalid-usage: "&cʜᴀᴛᴀ!|&e/ric [start|stop|duration|reload]"
+invalid-number: "&cʜᴀᴛᴀ!|&fLütfen geçerli bir süre değeri giriniz."
+
+event-started: "&aᴇᴛᴋıɴʟıᴋ ʙᴀꜱʟᴀᴅɪ!|&fRastgele eşya verme sistemi aktif."
+event-already-started: "&eᴢᴀᴛᴇɴ ᴀᴋᴛıꜰ!|&fEtkinlik şu anda zaten çalışıyor."
+event-stopped: "&cᴇᴛᴋıɴʟıᴋ ᴅᴜʀᴅᴜʀᴜʟᴅᴜ!|&fRastgele eşya dağıtımı kapatıldı."
+event-already-stopped: "&eᴀᴋᴛɪꜰ ᴅᴇɢɪʟ!|&fÇalışmayan etkinlik durdurulamaz."
+duration-updated: "&aꜱᴜʀᴇ ɢᴜɴᴄᴇʟʟᴇɴᴅɪ!|&fYeni eşya verme aralığı: &e{time} &fsaniye"
+plugin-reloaded: "&aʙᴀꜱᴀʀɪʟɪ!|&fEklenti dosyaları tamamen yenilendi."
+
+placeholder-active: "Aktif"
+placeholder-inactive: "Deaktif"
+
+bossbar-title: "&bYeni Eşyaya Kalan Süre: &f{time} &asaniye"

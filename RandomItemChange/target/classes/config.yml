@@ -1,0 +1,9 @@
+#Thank you for downloading and supporting the plugin. You can reach us via the links below for any errors or bugs.
+#Discord: discord.gg/D5D2qezm3Q
+#Website: www.voseraproject.tr
+
+# Default duration (in seconds)
+duration: 30
+
+# The language file to be used (you can create files like lang_tr.yml, lang_en.yml)
+lang-file: "lang_en.yml"
