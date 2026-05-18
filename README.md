@@ -21,6 +21,7 @@
 | `/ric start` | Starts the random item distribution event. | `ric.start` | OP |
 | `/ric stop` | Stops the active event and clears the BossBar. | `ric.stop` | OP |
 | `/ric duration <seconds>` | Dynamically changes the item distribution frequency. | `ric.duration` | OP |
+| `/ric blacklist add/remove/list <item>	` | It manages all commands for adding, deleting, and listing items on the blacklist. | `ric.blacklist` | OP |
 | `/ric reload` | Reloads the language and configuration files. | `ric.reload` | OP |
 
 ---
